@@ -12,6 +12,7 @@ Before we get to the instructions on running the streamlit py file, the order pr
 1) run the football_data.ipynb to obtain the data
 2) run the RidgeRegression.ipynb and the code within the HTML file to determine the predictor coefficients
 3) run finalcalc.py file which has the prebuilt coefficients within the file. You will need to provide the following arguments: event(superbowl, ccwins, playoffs) number of simulations(your choose)
+4) Then use the SQL.ipynb file to use SQL tables get the averages needed in our steamlit file. 
 
 Should you choose not replicate what was done in this project, you are able to download the streamlit py file and run it directly. 
 
